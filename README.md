@@ -3,4 +3,4 @@
 
 Repositório criado para o desafio DIO
 
-Agora sim, estamos chegando!
+Agora sim, estou chegando!
